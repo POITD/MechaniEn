@@ -1,0 +1,20 @@
+.go{
+    transition-duration: 2s;
+    transform: translateY(200px);
+}
+h1{
+    color:rgb(12, 12, 99);
+    font-size:45px;
+    text-align: center;
+    border-bottom: gray solid 1px;
+    margin:0;
+    padding:20px;
+      }
+.img-wrap{
+        position: relative;
+    }
+    
+.img-1{
+        position:absolute;
+        right: 0;
+    }
